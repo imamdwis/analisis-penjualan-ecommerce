@@ -1,0 +1,284 @@
+order_id,tanggal,pelanggan,kota,kategori,produk,qty,harga_satuan,diskon,metode_bayar,status,total
+ORD-2026-0001,2026-01-01,Doni Setiawan,Jakarta,Kecantikan,Serum Wajah,2,120000,0.0,Transfer Bank,Selesai,240000.0
+ORD-2026-0002,2026-01-01,Joko Susilo,Yogyakarta,Kecantikan,Masker Rambut,2,70000,0.1,E-Wallet,Selesai,126000.0
+ORD-2026-0003,2026-01-01,Teguh Santosa,Bandung,Elektronik,Power Bank 10000mAh,1,180000,0.0,E-Wallet,Selesai,180000.0
+ORD-2026-0004,2026-01-01,Putri Ayu,Medan,Elektronik,Earphone Bluetooth,2,250000,0.0,Transfer Bank,Selesai,500000.0
+ORD-2026-0005,2026-01-01,Dewi Lestari,Makassar,Elektronik,Webcam HD,1,320000,0.0,COD,Selesai,320000.0
+ORD-2026-0006,2026-01-03,Agus Pratama,Yogyakarta,Olahraga,Botol Minum,2,60000,0.0,Transfer Bank,Selesai,120000.0
+ORD-2026-0007,2026-01-03,Arif Rahman,Medan,Rumah Tangga,Rice Cooker,1,450000,0.1,Transfer Bank,Selesai,405000.0
+ORD-2026-0008,2026-01-03,Teguh Santosa,Jakarta,Kecantikan,Sunscreen SPF50,3,85000,0.1,Transfer Bank,Selesai,229500.0
+ORD-2026-0009,2026-01-03,Citra Kirana,Yogyakarta,Fashion,Sepatu Sneakers,1,350000,0.0,E-Wallet,Selesai,350000.0
+ORD-2026-0010,2026-01-04,Joko Susilo,Medan,Kecantikan,Serum Wajah,1,120000,0.0,COD,Selesai,120000.0
+ORD-2026-0011,2026-01-04,Fajar Ramadhan,Makassar,Fashion,Jaket Hoodie,2,220000,0.0,Kartu Kredit,Selesai,440000.0
+ORD-2026-0012,2026-01-04,Dewi Lestari,Yogyakarta,Olahraga,Resistance Band,1,50000,0.0,Transfer Bank,Selesai,50000.0
+ORD-2026-0013,2026-01-04,Citra Kirana,Jakarta,Olahraga,Matras Yoga,1,130000,0.15,COD,Selesai,110500.0
+ORD-2026-0014,2026-01-06,Indah Permata,Jakarta,Kecantikan,Lip Tint,2,55000,0.0,COD,Selesai,110000.0
+ORD-2026-0015,2026-01-07,Joko Susilo,Jakarta,Elektronik,Webcam HD,3,320000,0.0,E-Wallet,Selesai,960000.0
+ORD-2026-0018,2026-01-09,Arif Rahman,Semarang,Kecantikan,Sunscreen SPF50,1,85000,0.0,E-Wallet,Selesai,85000.0
+ORD-2026-0019,2026-01-09,Agus Pratama,Jakarta,Kecantikan,Serum Wajah,3,120000,0.0,Transfer Bank,Dibatalkan,360000.0
+ORD-2026-0021,2026-01-09,Gilang Permana,Jakarta,Rumah Tangga,Set Panci,2,300000,0.0,Transfer Bank,Selesai,600000.0
+ORD-2026-0022,2026-01-10,Agus Pratama,Makassar,Olahraga,Dumbbell 3kg,3,90000,0.0,COD,Dibatalkan,270000.0
+ORD-2026-0023,2026-01-10,Indah Permata,Bandung,Fashion,Celana Chino,2,180000,0.05,Transfer Bank,Selesai,342000.0
+ORD-2026-0024,2026-01-10,Fajar Ramadhan,Makassar,Fashion,Celana Chino,2,180000,0.0,E-Wallet,Selesai,360000.0
+ORD-2026-0169,2026-04-12,Fajar Ramadhan,Bandung,Fashion,Sepatu Sneakers,1,350000,0.15,Transfer Bank,Dikembalikan,297500.0
+ORD-2026-0025,2026-01-11,Teguh Santosa,Bandung,Rumah Tangga,Set Panci,2,300000,0.05,E-Wallet,Dikembalikan,570000.0
+ORD-2026-0027,2026-01-12,Indah Permata,Makassar,Fashion,Jaket Hoodie,1,220000,0.05,COD,Selesai,209000.0
+ORD-2026-0028,2026-01-13,Rudi Hartono,Bandung,Elektronik,Earphone Bluetooth,3,250000,0.0,COD,Selesai,750000.0
+ORD-2026-0029,2026-01-13,Budi Santoso,Denpasar,Elektronik,Webcam HD,1,320000,0.0,Transfer Bank,Selesai,320000.0
+ORD-2026-0030,2026-01-15,Eko Prasetyo,Makassar,Fashion,Jaket Hoodie,1,220000,0.0,E-Wallet,Selesai,220000.0
+ORD-2026-0031,2026-01-18,Hendra Gunawan,Medan,Rumah Tangga,Organizer,2,65000,0.0,E-Wallet,Selesai,130000.0
+ORD-2026-0032,2026-01-18,Nur Hidayah,Surabaya,Fashion,Sepatu Sneakers,1,350000,0.0,E-Wallet,Selesai,350000.0
+ORD-2026-0033,2026-01-21,Indah Permata,Jakarta,Olahraga,Botol Minum,1,60000,0.1,Transfer Bank,Selesai,54000.0
+ORD-2026-0034,2026-01-22,Bayu Saputra,Semarang,Elektronik,Earphone Bluetooth,1,250000,0.0,Kartu Kredit,Selesai,250000.0
+ORD-2026-0035,2026-01-22,Rizky Maulana,Jakarta,Fashion,Kaos Polos,1,75000,0.0,Kartu Kredit,Dikembalikan,75000.0
+ORD-2026-0036,2026-01-22,Yuni Astuti,Surabaya,Elektronik,Power Bank 10000mAh,1,180000,0.0,E-Wallet,Dikembalikan,180000.0
+ORD-2026-0037,2026-01-23,Hendra Gunawan,Surabaya,Rumah Tangga,Lampu LED,1,45000,0.0,E-Wallet,Selesai,45000.0
+ORD-2026-0038,2026-01-24,Putri Ayu,Jakarta,Fashion,Jaket Hoodie,1,220000,0.0,Tidak Diketahui,Selesai,220000.0
+ORD-2026-0052,2026-02-02,Tina Marlina,Medan,Olahraga,Matras Yoga,1,130000,0.0,Kartu Kredit,Selesai,130000.0
+ORD-2026-0039,2026-01-24,Dimas Anggara,Jakarta,Fashion,Celana Chino,1,180000,0.05,COD,Selesai,171000.0
+ORD-2026-0040,2026-01-25,Dimas Anggara,Jakarta,Kecantikan,Sunscreen SPF50,1,85000,0.1,E-Wallet,Selesai,76500.0
+ORD-2026-0041,2026-01-25,Doni Setiawan,Makassar,Olahraga,Botol Minum,1,60000,0.0,Transfer Bank,Selesai,60000.0
+ORD-2026-0042,2026-01-26,Doni Setiawan,Yogyakarta,Rumah Tangga,Organizer,1,65000,0.05,Transfer Bank,Selesai,61750.0
+ORD-2026-0043,2026-01-26,Dimas Anggara,Jakarta,Kecantikan,Sunscreen SPF50,1,85000,0.0,Kartu Kredit,Selesai,85000.0
+ORD-2026-0044,2026-01-26,Putri Ayu,Surabaya,Kecantikan,Lip Tint,4,55000,0.0,Transfer Bank,Selesai,220000.0
+ORD-2026-0045,2026-01-27,Sari Dewanti,Surabaya,Rumah Tangga,Set Panci,1,300000,0.05,E-Wallet,Selesai,285000.0
+ORD-2026-0046,2026-01-27,Doni Setiawan,Yogyakarta,Elektronik,Earphone Bluetooth,2,250000,0.0,Kartu Kredit,Selesai,500000.0
+ORD-2026-0047,2026-01-27,Arif Rahman,Surabaya,Rumah Tangga,Organizer,1,65000,0.0,Kartu Kredit,Selesai,65000.0
+ORD-2026-0048,2026-01-30,Dimas Anggara,Surabaya,Fashion,Jaket Hoodie,2,220000,0.0,Transfer Bank,Selesai,440000.0
+ORD-2026-0049,2026-02-01,Yuni Astuti,Bandung,Kecantikan,Sunscreen SPF50,1,85000,0.0,E-Wallet,Selesai,85000.0
+ORD-2026-0050,2026-02-01,Agus Pratama,Jakarta,Fashion,Kaos Polos,2,75000,0.05,Kartu Kredit,Selesai,142500.0
+ORD-2026-0051,2026-02-02,Tina Marlina,Jakarta,Olahraga,Botol Minum,1,60000,0.15,Transfer Bank,Dikembalikan,51000.0
+ORD-2026-0053,2026-02-03,Rizky Maulana,Jakarta,Olahraga,Botol Minum,1,60000,0.0,COD,Selesai,60000.0
+ORD-2026-0054,2026-02-03,Hendra Gunawan,Jakarta,Fashion,Sepatu Sneakers,2,350000,0.05,E-Wallet,Selesai,665000.0
+ORD-2026-0055,2026-02-03,Lia Anggraini,Surabaya,Elektronik,Earphone Bluetooth,1,250000,0.0,Transfer Bank,Selesai,250000.0
+ORD-2026-0056,2026-02-05,Sari Dewanti,Yogyakarta,Elektronik,Power Bank 10000mAh,3,180000,0.0,COD,Selesai,540000.0
+ORD-2026-0057,2026-02-07,Indah Permata,Yogyakarta,Rumah Tangga,Set Panci,2,300000,0.0,Transfer Bank,Selesai,600000.0
+ORD-2026-0058,2026-02-07,Sari Dewanti,Jakarta,Kecantikan,Serum Wajah,2,120000,0.15,E-Wallet,Selesai,204000.0
+ORD-2026-0059,2026-02-08,Rizky Maulana,Semarang,Fashion,Celana Chino,2,180000,0.0,Transfer Bank,Selesai,360000.0
+ORD-2026-0060,2026-02-08,Rudi Hartono,Bandung,Fashion,Celana Chino,1,180000,0.0,Tidak Diketahui,Selesai,180000.0
+ORD-2026-0061,2026-02-08,Dewi Lestari,Surabaya,Kecantikan,Sunscreen SPF50,1,85000,0.0,Transfer Bank,Selesai,85000.0
+ORD-2026-0062,2026-02-09,Indah Permata,Jakarta,Fashion,Celana Chino,1,180000,0.05,COD,Selesai,171000.0
+ORD-2026-0063,2026-02-09,Citra Kirana,Surabaya,Elektronik,Smartwatch,2,650000,0.15,E-Wallet,Selesai,1105000.0
+ORD-2026-0064,2026-02-09,Siti Aminah,Denpasar,Fashion,Celana Chino,1,180000,0.0,Transfer Bank,Dibatalkan,180000.0
+ORD-2026-0065,2026-02-09,Dimas Anggara,Medan,Fashion,Celana Chino,1,180000,0.05,COD,Selesai,171000.0
+ORD-2026-0066,2026-02-09,Fitri Handayani,Jakarta,Rumah Tangga,Set Panci,1,300000,0.05,E-Wallet,Selesai,285000.0
+ORD-2026-0067,2026-02-10,Lia Anggraini,Surabaya,Kecantikan,Masker Rambut,1,70000,0.05,COD,Selesai,66500.0
+ORD-2026-0068,2026-02-10,Gilang Permana,Semarang,Kecantikan,Sunscreen SPF50,1,85000,0.15,COD,Selesai,72250.0
+ORD-2026-0069,2026-02-11,Nur Hidayah,Surabaya,Kecantikan,Sunscreen SPF50,1,85000,0.0,Kartu Kredit,Selesai,85000.0
+ORD-2026-0070,2026-02-12,Sari Dewanti,Makassar,Kecantikan,Serum Wajah,1,120000,0.0,COD,Selesai,120000.0
+ORD-2026-0071,2026-02-13,Wati Rahayu,Jakarta,Fashion,Celana Chino,1,180000,0.0,Kartu Kredit,Dikembalikan,180000.0
+ORD-2026-0072,2026-02-13,Gilang Permana,Makassar,Kecantikan,Masker Rambut,2,70000,0.0,E-Wallet,Selesai,140000.0
+ORD-2026-0073,2026-02-13,Putri Ayu,Yogyakarta,Kecantikan,Sunscreen SPF50,2,85000,0.0,E-Wallet,Selesai,170000.0
+ORD-2026-0074,2026-02-13,Yuni Astuti,Surabaya,Rumah Tangga,Organizer,1,65000,0.0,Kartu Kredit,Selesai,65000.0
+ORD-2026-0075,2026-02-13,Maya Sari,Surabaya,Rumah Tangga,Lampu LED,1,45000,0.0,E-Wallet,Selesai,45000.0
+ORD-2026-0076,2026-02-14,Lia Anggraini,Makassar,Elektronik,Smartwatch,1,650000,0.0,E-Wallet,Selesai,650000.0
+ORD-2026-0077,2026-02-15,Indah Permata,Yogyakarta,Fashion,Sepatu Sneakers,1,350000,0.0,COD,Selesai,350000.0
+ORD-2026-0078,2026-02-16,Nur Hidayah,Bandung,Kecantikan,Masker Rambut,1,70000,0.0,E-Wallet,Selesai,70000.0
+ORD-2026-0079,2026-02-16,Agus Pratama,Surabaya,Kecantikan,Lip Tint,1,55000,0.05,Transfer Bank,Selesai,52250.0
+ORD-2026-0080,2026-02-18,Teguh Santosa,Bandung,Olahraga,Matras Yoga,2,130000,0.05,E-Wallet,Selesai,247000.0
+ORD-2026-0081,2026-02-18,Bayu Saputra,Yogyakarta,Rumah Tangga,Rice Cooker,1,450000,0.0,COD,Selesai,450000.0
+ORD-2026-0082,2026-02-19,Budi Santoso,Denpasar,Fashion,Kaos Polos,1,75000,0.0,COD,Dibatalkan,75000.0
+ORD-2026-0083,2026-02-20,Putri Ayu,Jakarta,Rumah Tangga,Set Panci,4,300000,0.05,COD,Selesai,1140000.0
+ORD-2026-0085,2026-02-23,Ani Kusuma,Surabaya,Olahraga,Matras Yoga,1,130000,0.1,COD,Dikembalikan,117000.0
+ORD-2026-0086,2026-02-23,Fitri Handayani,Semarang,Olahraga,Resistance Band,1,50000,0.0,E-Wallet,Selesai,50000.0
+ORD-2026-0087,2026-02-23,Teguh Santosa,Surabaya,Fashion,Jaket Hoodie,1,220000,0.0,E-Wallet,Selesai,220000.0
+ORD-2026-0088,2026-02-24,Gilang Permana,Surabaya,Elektronik,Webcam HD,1,320000,0.1,COD,Selesai,288000.0
+ORD-2026-0089,2026-02-24,Doni Setiawan,Bandung,Elektronik,Smartwatch,2,650000,0.0,E-Wallet,Selesai,1300000.0
+ORD-2026-0090,2026-02-24,Doni Setiawan,Denpasar,Fashion,Celana Chino,2,180000,0.0,Transfer Bank,Selesai,360000.0
+ORD-2026-0091,2026-02-26,Arif Rahman,Surabaya,Fashion,Jaket Hoodie,1,220000,0.0,COD,Selesai,220000.0
+ORD-2026-0093,2026-03-01,Andi Wijaya,Jakarta,Kecantikan,Serum Wajah,2,120000,0.05,E-Wallet,Selesai,228000.0
+ORD-2026-0094,2026-03-02,Yuni Astuti,Denpasar,Fashion,Kaos Polos,1,75000,0.0,COD,Selesai,75000.0
+ORD-2026-0095,2026-03-03,Rina Wulandari,Jakarta,Elektronik,Webcam HD,2,320000,0.05,Transfer Bank,Selesai,608000.0
+ORD-2026-0096,2026-03-03,Maya Sari,Surabaya,Kecantikan,Serum Wajah,1,120000,0.0,Transfer Bank,Selesai,120000.0
+ORD-2026-0097,2026-03-04,Budi Santoso,Denpasar,Fashion,Jaket Hoodie,2,220000,0.05,Kartu Kredit,Selesai,418000.0
+ORD-2026-0098,2026-03-04,Tina Marlina,Semarang,Fashion,Celana Chino,3,180000,0.0,Kartu Kredit,Selesai,540000.0
+ORD-2026-0099,2026-03-04,Indah Permata,Bandung,Olahraga,Botol Minum,2,60000,0.0,Transfer Bank,Selesai,120000.0
+ORD-2026-0100,2026-03-05,Rizky Maulana,Denpasar,Elektronik,Webcam HD,1,320000,0.1,E-Wallet,Selesai,288000.0
+ORD-2026-0101,2026-03-07,Rina Wulandari,Medan,Rumah Tangga,Rice Cooker,3,450000,0.0,Kartu Kredit,Selesai,1350000.0
+ORD-2026-0102,2026-03-08,Fitri Handayani,Makassar,Fashion,Jaket Hoodie,1,220000,0.0,E-Wallet,Dibatalkan,220000.0
+ORD-2026-0104,2026-03-08,Rizky Maulana,Jakarta,Fashion,Sepatu Sneakers,3,350000,0.0,COD,Selesai,1050000.0
+ORD-2026-0105,2026-03-09,Bayu Saputra,Medan,Fashion,Jaket Hoodie,4,220000,0.0,E-Wallet,Selesai,880000.0
+ORD-2026-0106,2026-03-10,Joko Susilo,Denpasar,Elektronik,Earphone Bluetooth,2,250000,0.05,Kartu Kredit,Selesai,475000.0
+ORD-2026-0107,2026-03-10,Fajar Ramadhan,Bandung,Elektronik,Smartwatch,1,650000,0.05,Kartu Kredit,Dibatalkan,617500.0
+ORD-2026-0171,2026-04-12,Siti Aminah,Jakarta,Fashion,Sepatu Sneakers,1,350000,0.0,E-Wallet,Selesai,350000.0
+ORD-2026-0108,2026-03-10,Dimas Anggara,Surabaya,Rumah Tangga,Set Panci,1,300000,0.05,E-Wallet,Selesai,285000.0
+ORD-2026-0109,2026-03-10,Rudi Hartono,Bandung,Fashion,Jaket Hoodie,3,220000,0.0,E-Wallet,Selesai,660000.0
+ORD-2026-0110,2026-03-11,Doni Setiawan,Medan,Kecantikan,Masker Rambut,1,70000,0.0,Kartu Kredit,Selesai,70000.0
+ORD-2026-0111,2026-03-12,Yuni Astuti,Bandung,Elektronik,Webcam HD,2,320000,0.0,Kartu Kredit,Selesai,640000.0
+ORD-2026-0112,2026-03-13,Agus Pratama,Jakarta,Olahraga,Botol Minum,2,60000,0.0,Transfer Bank,Selesai,120000.0
+ORD-2026-0113,2026-03-14,Ani Kusuma,Jakarta,Rumah Tangga,Lampu LED,1,45000,0.0,Transfer Bank,Selesai,45000.0
+ORD-2026-0114,2026-03-14,Dewi Lestari,Bandung,Kecantikan,Masker Rambut,2,70000,0.0,Transfer Bank,Selesai,140000.0
+ORD-2026-0115,2026-03-16,Gilang Permana,Surabaya,Elektronik,Webcam HD,2,320000,0.1,Kartu Kredit,Selesai,576000.0
+ORD-2026-0116,2026-03-16,Dimas Anggara,Bandung,Elektronik,Smartwatch,3,650000,0.1,COD,Selesai,1755000.0
+ORD-2026-0117,2026-03-16,Gilang Permana,Bandung,Olahraga,Botol Minum,2,60000,0.0,E-Wallet,Selesai,120000.0
+ORD-2026-0118,2026-03-16,Eko Prasetyo,Makassar,Kecantikan,Lip Tint,1,55000,0.0,Transfer Bank,Selesai,55000.0
+ORD-2026-0119,2026-03-17,Arif Rahman,Surabaya,Olahraga,Botol Minum,2,60000,0.0,Kartu Kredit,Selesai,120000.0
+ORD-2026-0120,2026-03-17,Teguh Santosa,Surabaya,Kecantikan,Lip Tint,2,55000,0.0,E-Wallet,Selesai,110000.0
+ORD-2026-0121,2026-03-20,Wati Rahayu,Bandung,Elektronik,Power Bank 10000mAh,1,180000,0.0,Transfer Bank,Selesai,180000.0
+ORD-2026-0122,2026-03-20,Joko Susilo,Jakarta,Kecantikan,Sunscreen SPF50,3,85000,0.1,Transfer Bank,Dikembalikan,229500.0
+ORD-2026-0123,2026-03-21,Bayu Saputra,Yogyakarta,Kecantikan,Serum Wajah,1,120000,0.0,E-Wallet,Selesai,120000.0
+ORD-2026-0124,2026-03-21,Dewi Lestari,Medan,Kecantikan,Masker Rambut,2,70000,0.1,E-Wallet,Selesai,126000.0
+ORD-2026-0125,2026-03-23,Hendra Gunawan,Semarang,Kecantikan,Sunscreen SPF50,1,85000,0.0,E-Wallet,Selesai,85000.0
+ORD-2026-0126,2026-03-24,Siti Aminah,Makassar,Fashion,Sepatu Sneakers,2,350000,0.05,Transfer Bank,Selesai,665000.0
+ORD-2026-0127,2026-03-25,Lia Anggraini,Makassar,Kecantikan,Masker Rambut,2,70000,0.0,Transfer Bank,Selesai,140000.0
+ORD-2026-0128,2026-03-25,Rizky Maulana,Semarang,Fashion,Sepatu Sneakers,2,350000,0.0,E-Wallet,Selesai,700000.0
+ORD-2026-0129,2026-03-26,Yuni Astuti,Jakarta,Fashion,Kaos Polos,2,75000,0.2,Transfer Bank,Selesai,120000.0
+ORD-2026-0130,2026-03-26,Citra Kirana,Semarang,Kecantikan,Sunscreen SPF50,1,85000,0.05,COD,Dikembalikan,80750.0
+ORD-2026-0131,2026-03-27,Indah Permata,Bandung,Fashion,Jaket Hoodie,2,220000,0.0,E-Wallet,Selesai,440000.0
+ORD-2026-0249,2026-05-21,Joko Susilo,Denpasar,Rumah Tangga,Rice Cooker,3,450000,0.0,Transfer Bank,Selesai,1350000.0
+ORD-2026-0133,2026-03-28,Joko Susilo,Yogyakarta,Rumah Tangga,Organizer,4,65000,0.15,Kartu Kredit,Selesai,221000.0
+ORD-2026-0134,2026-03-28,Budi Santoso,Jakarta,Olahraga,Dumbbell 3kg,1,90000,0.0,E-Wallet,Selesai,90000.0
+ORD-2026-0135,2026-03-28,Arif Rahman,Yogyakarta,Kecantikan,Masker Rambut,4,70000,0.05,E-Wallet,Selesai,266000.0
+ORD-2026-0136,2026-03-28,Doni Setiawan,Denpasar,Kecantikan,Serum Wajah,2,120000,0.1,COD,Selesai,216000.0
+ORD-2026-0137,2026-03-29,Rina Wulandari,Makassar,Fashion,Jaket Hoodie,1,220000,0.0,E-Wallet,Selesai,220000.0
+ORD-2026-0138,2026-03-29,Dimas Anggara,Surabaya,Fashion,Sepatu Sneakers,1,350000,0.05,E-Wallet,Selesai,332500.0
+ORD-2026-0139,2026-03-29,Doni Setiawan,Jakarta,Fashion,Kaos Polos,1,75000,0.0,E-Wallet,Selesai,75000.0
+ORD-2026-0140,2026-03-30,Rizky Maulana,Jakarta,Elektronik,Smartwatch,2,650000,0.0,COD,Selesai,1300000.0
+ORD-2026-0141,2026-03-31,Eko Prasetyo,Makassar,Olahraga,Botol Minum,1,60000,0.0,Transfer Bank,Selesai,60000.0
+ORD-2026-0142,2026-03-31,Gilang Permana,Medan,Kecantikan,Lip Tint,1,55000,0.15,Transfer Bank,Selesai,46750.0
+ORD-2026-0143,2026-03-31,Teguh Santosa,Jakarta,Elektronik,Smartwatch,2,650000,0.0,E-Wallet,Selesai,1300000.0
+ORD-2026-0144,2026-04-01,Nur Hidayah,Bandung,Elektronik,Smartwatch,1,650000,0.1,Transfer Bank,Selesai,585000.0
+ORD-2026-0251,2026-05-22,Citra Kirana,Surabaya,Fashion,Kaos Polos,2,75000,0.0,E-Wallet,Selesai,150000.0
+ORD-2026-0145,2026-04-01,Indah Permata,Denpasar,Fashion,Celana Chino,3,180000,0.0,Transfer Bank,Selesai,540000.0
+ORD-2026-0146,2026-04-01,Putri Ayu,Jakarta,Kecantikan,Masker Rambut,3,70000,0.0,COD,Selesai,210000.0
+ORD-2026-0147,2026-04-01,Agus Pratama,Jakarta,Fashion,Celana Chino,2,180000,0.15,COD,Selesai,306000.0
+ORD-2026-0148,2026-04-02,Siti Aminah,Bandung,Fashion,Kaos Polos,1,75000,0.05,E-Wallet,Selesai,71250.0
+ORD-2026-0149,2026-04-02,Indah Permata,Jakarta,Olahraga,Dumbbell 3kg,3,90000,0.0,E-Wallet,Selesai,270000.0
+ORD-2026-0150,2026-04-02,Dimas Anggara,Semarang,Elektronik,Smartwatch,1,650000,0.1,E-Wallet,Selesai,585000.0
+ORD-2026-0151,2026-04-03,Rizky Maulana,Surabaya,Olahraga,Botol Minum,1,60000,0.0,Kartu Kredit,Selesai,60000.0
+ORD-2026-0152,2026-04-03,Ani Kusuma,Surabaya,Kecantikan,Sunscreen SPF50,2,85000,0.2,COD,Dibatalkan,136000.0
+ORD-2026-0153,2026-04-03,Rudi Hartono,Surabaya,Fashion,Sepatu Sneakers,1,350000,0.0,E-Wallet,Selesai,350000.0
+ORD-2026-0154,2026-04-05,Citra Kirana,Jakarta,Olahraga,Resistance Band,1,50000,0.0,Transfer Bank,Dibatalkan,50000.0
+ORD-2026-0155,2026-04-05,Dewi Lestari,Bandung,Rumah Tangga,Lampu LED,2,45000,0.1,COD,Selesai,81000.0
+ORD-2026-0156,2026-04-05,Putri Ayu,Denpasar,Elektronik,Webcam HD,1,320000,0.2,E-Wallet,Selesai,256000.0
+ORD-2026-0157,2026-04-08,Dewi Lestari,Jakarta,Rumah Tangga,Lampu LED,1,45000,0.15,COD,Selesai,38250.0
+ORD-2026-0158,2026-04-08,Indah Permata,Jakarta,Olahraga,Dumbbell 3kg,1,90000,0.0,COD,Selesai,90000.0
+ORD-2026-0159,2026-04-08,Gilang Permana,Makassar,Fashion,Kaos Polos,2,75000,0.1,Transfer Bank,Selesai,135000.0
+ORD-2026-0160,2026-04-10,Gilang Permana,Medan,Olahraga,Resistance Band,1,50000,0.0,Transfer Bank,Selesai,50000.0
+ORD-2026-0161,2026-04-10,Bayu Saputra,Jakarta,Elektronik,Earphone Bluetooth,1,250000,0.15,E-Wallet,Selesai,212500.0
+ORD-2026-0162,2026-04-10,Tina Marlina,Bandung,Elektronik,Power Bank 10000mAh,1,180000,0.2,Transfer Bank,Selesai,144000.0
+ORD-2026-0163,2026-04-11,Joko Susilo,Bandung,Elektronik,Webcam HD,1,320000,0.2,Kartu Kredit,Selesai,256000.0
+ORD-2026-0164,2026-04-12,Hendra Gunawan,Jakarta,Olahraga,Matras Yoga,1,130000,0.05,E-Wallet,Selesai,123500.0
+ORD-2026-0165,2026-04-12,Doni Setiawan,Denpasar,Rumah Tangga,Set Panci,2,300000,0.05,Kartu Kredit,Dikembalikan,570000.0
+ORD-2026-0166,2026-04-12,Maya Sari,Medan,Kecantikan,Serum Wajah,1,120000,0.1,E-Wallet,Selesai,108000.0
+ORD-2026-0167,2026-04-12,Gilang Permana,Medan,Elektronik,Webcam HD,3,320000,0.0,Transfer Bank,Selesai,960000.0
+ORD-2026-0168,2026-04-12,Teguh Santosa,Denpasar,Elektronik,Webcam HD,1,320000,0.2,E-Wallet,Dikembalikan,256000.0
+ORD-2026-0170,2026-04-12,Doni Setiawan,Semarang,Fashion,Jaket Hoodie,1,220000,0.05,COD,Dikembalikan,209000.0
+ORD-2026-0172,2026-04-14,Andi Wijaya,Jakarta,Fashion,Celana Chino,1,180000,0.05,Transfer Bank,Selesai,171000.0
+ORD-2026-0173,2026-04-14,Siti Aminah,Bandung,Olahraga,Dumbbell 3kg,1,90000,0.2,COD,Selesai,72000.0
+ORD-2026-0174,2026-04-15,Indah Permata,Surabaya,Elektronik,Earphone Bluetooth,2,250000,0.0,E-Wallet,Selesai,500000.0
+ORD-2026-0175,2026-04-15,Citra Kirana,Denpasar,Elektronik,Earphone Bluetooth,1,250000,0.05,COD,Selesai,237500.0
+ORD-2026-0176,2026-04-15,Joko Susilo,Surabaya,Elektronik,Earphone Bluetooth,1,250000,0.0,Transfer Bank,Selesai,250000.0
+ORD-2026-0177,2026-04-15,Agus Pratama,Yogyakarta,Olahraga,Resistance Band,1,50000,0.05,Transfer Bank,Selesai,47500.0
+ORD-2026-0178,2026-04-15,Rizky Maulana,Makassar,Olahraga,Botol Minum,1,60000,0.2,Transfer Bank,Selesai,48000.0
+ORD-2026-0179,2026-04-16,Sari Dewanti,Jakarta,Kecantikan,Sunscreen SPF50,1,85000,0.2,COD,Selesai,68000.0
+ORD-2026-0180,2026-04-16,Nur Hidayah,Jakarta,Rumah Tangga,Organizer,3,65000,0.1,Transfer Bank,Selesai,175500.0
+ORD-2026-0181,2026-04-16,Citra Kirana,Semarang,Kecantikan,Sunscreen SPF50,1,85000,0.1,COD,Selesai,76500.0
+ORD-2026-0182,2026-04-16,Wati Rahayu,Surabaya,Elektronik,Smartwatch,1,650000,0.1,E-Wallet,Selesai,585000.0
+ORD-2026-0183,2026-04-16,Ani Kusuma,Bandung,Fashion,Jaket Hoodie,4,220000,0.2,E-Wallet,Selesai,704000.0
+ORD-2026-0185,2026-04-17,Lia Anggraini,Makassar,Kecantikan,Sunscreen SPF50,1,85000,0.0,Kartu Kredit,Dibatalkan,85000.0
+ORD-2026-0186,2026-04-17,Citra Kirana,Bandung,Elektronik,Power Bank 10000mAh,1,180000,0.05,E-Wallet,Selesai,171000.0
+ORD-2026-0187,2026-04-17,Sari Dewanti,Jakarta,Fashion,Celana Chino,3,180000,0.1,Transfer Bank,Selesai,486000.0
+ORD-2026-0188,2026-04-17,Siti Aminah,Jakarta,Elektronik,Smartwatch,1,650000,0.1,COD,Dibatalkan,585000.0
+ORD-2026-0189,2026-04-18,Dimas Anggara,Yogyakarta,Kecantikan,Serum Wajah,1,120000,0.05,E-Wallet,Selesai,114000.0
+ORD-2026-0190,2026-04-18,Hendra Gunawan,Jakarta,Elektronik,Earphone Bluetooth,1,250000,0.0,E-Wallet,Selesai,250000.0
+ORD-2026-0191,2026-04-19,Lia Anggraini,Surabaya,Elektronik,Smartwatch,1,650000,0.0,Transfer Bank,Selesai,650000.0
+ORD-2026-0192,2026-04-19,Rina Wulandari,Surabaya,Kecantikan,Masker Rambut,1,70000,0.15,Kartu Kredit,Selesai,59500.0
+ORD-2026-0193,2026-04-19,Yuni Astuti,Jakarta,Fashion,Sepatu Sneakers,1,350000,0.2,Transfer Bank,Selesai,280000.0
+ORD-2026-0194,2026-04-20,Lia Anggraini,Jakarta,Kecantikan,Serum Wajah,1,120000,0.1,COD,Selesai,108000.0
+ORD-2026-0196,2026-04-21,Dewi Lestari,Surabaya,Elektronik,Smartwatch,1,650000,0.0,Transfer Bank,Selesai,650000.0
+ORD-2026-0197,2026-04-21,Andi Wijaya,Medan,Kecantikan,Lip Tint,1,55000,0.2,Kartu Kredit,Selesai,44000.0
+ORD-2026-0198,2026-04-22,Lia Anggraini,Jakarta,Kecantikan,Sunscreen SPF50,2,85000,0.1,Kartu Kredit,Selesai,153000.0
+ORD-2026-0199,2026-04-22,Hendra Gunawan,Bandung,Olahraga,Dumbbell 3kg,2,90000,0.0,E-Wallet,Selesai,180000.0
+ORD-2026-0200,2026-04-22,Sari Dewanti,Medan,Elektronik,Smartwatch,1,650000,0.2,E-Wallet,Selesai,520000.0
+ORD-2026-0202,2026-04-23,Rudi Hartono,Surabaya,Olahraga,Dumbbell 3kg,1,90000,0.05,E-Wallet,Selesai,85500.0
+ORD-2026-0203,2026-04-23,Putri Ayu,Yogyakarta,Elektronik,Webcam HD,3,320000,0.05,Transfer Bank,Selesai,912000.0
+ORD-2026-0204,2026-04-23,Dewi Lestari,Jakarta,Elektronik,Webcam HD,1,320000,0.0,Transfer Bank,Selesai,320000.0
+ORD-2026-0205,2026-04-24,Eko Prasetyo,Denpasar,Kecantikan,Sunscreen SPF50,2,85000,0.05,COD,Dibatalkan,161500.0
+ORD-2026-0206,2026-04-24,Teguh Santosa,Surabaya,Olahraga,Matras Yoga,1,130000,0.1,Transfer Bank,Selesai,117000.0
+ORD-2026-0207,2026-04-24,Tina Marlina,Bandung,Fashion,Jaket Hoodie,1,220000,0.15,COD,Selesai,187000.0
+ORD-2026-0208,2026-04-24,Maya Sari,Bandung,Rumah Tangga,Lampu LED,1,45000,0.2,E-Wallet,Selesai,36000.0
+ORD-2026-0209,2026-04-25,Yuni Astuti,Medan,Kecantikan,Serum Wajah,1,120000,0.05,Transfer Bank,Selesai,114000.0
+ORD-2026-0210,2026-04-25,Wati Rahayu,Surabaya,Fashion,Celana Chino,2,180000,0.15,Kartu Kredit,Selesai,306000.0
+ORD-2026-0211,2026-04-26,Rizky Maulana,Makassar,Rumah Tangga,Organizer,1,65000,0.2,Transfer Bank,Selesai,52000.0
+ORD-2026-0212,2026-04-26,Rudi Hartono,Yogyakarta,Olahraga,Matras Yoga,4,130000,0.05,Transfer Bank,Selesai,494000.0
+ORD-2026-0213,2026-04-26,Citra Kirana,Yogyakarta,Fashion,Celana Chino,2,180000,0.1,COD,Selesai,324000.0
+ORD-2026-0214,2026-04-27,Wati Rahayu,Semarang,Elektronik,Earphone Bluetooth,2,250000,0.2,E-Wallet,Dibatalkan,400000.0
+ORD-2026-0215,2026-04-28,Siti Aminah,Medan,Rumah Tangga,Set Panci,1,300000,0.1,COD,Dibatalkan,270000.0
+ORD-2026-0216,2026-04-29,Ani Kusuma,Jakarta,Kecantikan,Serum Wajah,1,120000,0.0,Transfer Bank,Selesai,120000.0
+ORD-2026-0217,2026-04-29,Siti Aminah,Bandung,Rumah Tangga,Organizer,1,65000,0.15,Transfer Bank,Selesai,55250.0
+ORD-2026-0218,2026-04-30,Teguh Santosa,Makassar,Elektronik,Webcam HD,1,320000,0.1,Transfer Bank,Selesai,288000.0
+ORD-2026-0219,2026-04-30,Rizky Maulana,Makassar,Elektronik,Webcam HD,2,320000,0.15,COD,Selesai,544000.0
+ORD-2026-0220,2026-05-03,Doni Setiawan,Denpasar,Rumah Tangga,Set Panci,3,300000,0.0,E-Wallet,Dikembalikan,900000.0
+ORD-2026-0221,2026-05-03,Joko Susilo,Denpasar,Elektronik,Webcam HD,3,320000,0.0,E-Wallet,Selesai,960000.0
+ORD-2026-0222,2026-05-03,Lia Anggraini,Bandung,Fashion,Kaos Polos,1,75000,0.05,COD,Selesai,71250.0
+ORD-2026-0223,2026-05-04,Putri Ayu,Jakarta,Kecantikan,Sunscreen SPF50,1,85000,0.0,Kartu Kredit,Selesai,85000.0
+ORD-2026-0294,2026-06-24,Wati Rahayu,Surabaya,Elektronik,Power Bank 10000mAh,1,180000,0.0,E-Wallet,Selesai,180000.0
+ORD-2026-0224,2026-05-04,Ani Kusuma,Jakarta,Fashion,Sepatu Sneakers,1,350000,0.0,COD,Selesai,350000.0
+ORD-2026-0225,2026-05-05,Budi Santoso,Denpasar,Fashion,Sepatu Sneakers,4,350000,0.05,E-Wallet,Selesai,1330000.0
+ORD-2026-0226,2026-05-05,Rudi Hartono,Denpasar,Fashion,Celana Chino,2,180000,0.0,Transfer Bank,Selesai,360000.0
+ORD-2026-0227,2026-05-05,Lia Anggraini,Jakarta,Rumah Tangga,Rice Cooker,1,450000,0.0,E-Wallet,Selesai,450000.0
+ORD-2026-0228,2026-05-05,Budi Santoso,Jakarta,Fashion,Celana Chino,3,180000,0.0,E-Wallet,Selesai,540000.0
+ORD-2026-0229,2026-05-07,Siti Aminah,Jakarta,Kecantikan,Masker Rambut,2,70000,0.05,COD,Dibatalkan,133000.0
+ORD-2026-0230,2026-05-08,Hendra Gunawan,Makassar,Fashion,Celana Chino,4,180000,0.1,E-Wallet,Selesai,648000.0
+ORD-2026-0231,2026-05-09,Putri Ayu,Bandung,Elektronik,Power Bank 10000mAh,2,180000,0.0,Transfer Bank,Selesai,360000.0
+ORD-2026-0232,2026-05-10,Siti Aminah,Bandung,Kecantikan,Masker Rambut,2,70000,0.1,COD,Selesai,126000.0
+ORD-2026-0233,2026-05-10,Andi Wijaya,Bandung,Fashion,Celana Chino,1,180000,0.0,COD,Dibatalkan,180000.0
+ORD-2026-0234,2026-05-10,Lia Anggraini,Surabaya,Kecantikan,Sunscreen SPF50,2,85000,0.0,E-Wallet,Selesai,170000.0
+ORD-2026-0236,2026-05-11,Hendra Gunawan,Surabaya,Olahraga,Matras Yoga,2,130000,0.15,Transfer Bank,Selesai,221000.0
+ORD-2026-0237,2026-05-12,Teguh Santosa,Jakarta,Olahraga,Botol Minum,4,60000,0.15,COD,Selesai,204000.0
+ORD-2026-0238,2026-05-13,Fitri Handayani,Jakarta,Rumah Tangga,Lampu LED,1,45000,0.0,E-Wallet,Selesai,45000.0
+ORD-2026-0239,2026-05-13,Dimas Anggara,Surabaya,Elektronik,Webcam HD,2,320000,0.05,Transfer Bank,Selesai,608000.0
+ORD-2026-0240,2026-05-13,Indah Permata,Surabaya,Kecantikan,Lip Tint,4,55000,0.0,Transfer Bank,Selesai,220000.0
+ORD-2026-0241,2026-05-14,Rina Wulandari,Makassar,Kecantikan,Serum Wajah,1,120000,0.05,Kartu Kredit,Selesai,114000.0
+ORD-2026-0242,2026-05-15,Teguh Santosa,Yogyakarta,Olahraga,Matras Yoga,3,130000,0.0,Transfer Bank,Dikembalikan,390000.0
+ORD-2026-0243,2026-05-17,Rudi Hartono,Jakarta,Kecantikan,Serum Wajah,4,120000,0.0,Transfer Bank,Selesai,480000.0
+ORD-2026-0244,2026-05-18,Arif Rahman,Surabaya,Elektronik,Webcam HD,1,320000,0.0,COD,Selesai,320000.0
+ORD-2026-0245,2026-05-18,Nur Hidayah,Surabaya,Kecantikan,Serum Wajah,3,120000,0.05,Transfer Bank,Selesai,342000.0
+ORD-2026-0246,2026-05-19,Doni Setiawan,Jakarta,Elektronik,Earphone Bluetooth,1,250000,0.0,Transfer Bank,Selesai,250000.0
+ORD-2026-0247,2026-05-19,Fitri Handayani,Jakarta,Kecantikan,Masker Rambut,1,70000,0.0,Transfer Bank,Selesai,70000.0
+ORD-2026-0248,2026-05-21,Rudi Hartono,Surabaya,Olahraga,Botol Minum,1,60000,0.15,Transfer Bank,Selesai,51000.0
+ORD-2026-0250,2026-05-21,Dimas Anggara,Bandung,Fashion,Kaos Polos,4,75000,0.1,COD,Dibatalkan,270000.0
+ORD-2026-0252,2026-05-22,Tina Marlina,Jakarta,Fashion,Jaket Hoodie,2,220000,0.0,Transfer Bank,Selesai,440000.0
+ORD-2026-0253,2026-05-22,Dewi Lestari,Jakarta,Kecantikan,Masker Rambut,1,70000,0.0,COD,Selesai,70000.0
+ORD-2026-0254,2026-05-24,Tina Marlina,Surabaya,Elektronik,Earphone Bluetooth,1,250000,0.05,Transfer Bank,Selesai,237500.0
+ORD-2026-0255,2026-05-24,Rizky Maulana,Medan,Elektronik,Smartwatch,1,650000,0.0,E-Wallet,Selesai,650000.0
+ORD-2026-0256,2026-05-25,Sari Dewanti,Denpasar,Fashion,Sepatu Sneakers,2,350000,0.05,Transfer Bank,Selesai,665000.0
+ORD-2026-0257,2026-05-26,Agus Pratama,Surabaya,Kecantikan,Sunscreen SPF50,1,85000,0.0,COD,Selesai,85000.0
+ORD-2026-0258,2026-05-26,Hendra Gunawan,Yogyakarta,Fashion,Sepatu Sneakers,1,350000,0.0,E-Wallet,Dikembalikan,350000.0
+ORD-2026-0261,2026-05-28,Tina Marlina,Jakarta,Fashion,Kaos Polos,1,75000,0.0,E-Wallet,Selesai,75000.0
+ORD-2026-0262,2026-05-28,Eko Prasetyo,Bandung,Elektronik,Smartwatch,2,650000,0.0,E-Wallet,Selesai,1300000.0
+ORD-2026-0263,2026-05-29,Ani Kusuma,Surabaya,Kecantikan,Serum Wajah,1,120000,0.0,COD,Selesai,120000.0
+ORD-2026-0264,2026-05-29,Rudi Hartono,Makassar,Kecantikan,Masker Rambut,2,70000,0.15,E-Wallet,Dikembalikan,119000.0
+ORD-2026-0265,2026-05-29,Doni Setiawan,Denpasar,Rumah Tangga,Set Panci,4,300000,0.0,Transfer Bank,Selesai,1200000.0
+ORD-2026-0266,2026-05-30,Arif Rahman,Jakarta,Fashion,Jaket Hoodie,3,220000,0.15,E-Wallet,Selesai,561000.0
+ORD-2026-0267,2026-05-30,Rudi Hartono,Denpasar,Fashion,Kaos Polos,3,75000,0.0,Kartu Kredit,Selesai,225000.0
+ORD-2026-0268,2026-06-01,Hendra Gunawan,Surabaya,Rumah Tangga,Set Panci,2,300000,0.0,COD,Selesai,600000.0
+ORD-2026-0269,2026-06-02,Yuni Astuti,Denpasar,Fashion,Jaket Hoodie,2,220000,0.05,COD,Selesai,418000.0
+ORD-2026-0270,2026-06-03,Agus Pratama,Jakarta,Kecantikan,Serum Wajah,1,120000,0.0,COD,Selesai,120000.0
+ORD-2026-0271,2026-06-05,Maya Sari,Bandung,Olahraga,Dumbbell 3kg,1,90000,0.0,E-Wallet,Selesai,90000.0
+ORD-2026-0272,2026-06-06,Doni Setiawan,Jakarta,Elektronik,Webcam HD,1,320000,0.05,E-Wallet,Selesai,304000.0
+ORD-2026-0273,2026-06-09,Eko Prasetyo,Surabaya,Elektronik,Smartwatch,1,650000,0.0,Kartu Kredit,Selesai,650000.0
+ORD-2026-0274,2026-06-10,Rudi Hartono,Yogyakarta,Kecantikan,Masker Rambut,1,70000,0.15,E-Wallet,Selesai,59500.0
+ORD-2026-0275,2026-06-12,Maya Sari,Denpasar,Fashion,Sepatu Sneakers,2,350000,0.05,Transfer Bank,Selesai,665000.0
+ORD-2026-0276,2026-06-12,Dewi Lestari,Denpasar,Kecantikan,Sunscreen SPF50,1,85000,0.05,E-Wallet,Selesai,80750.0
+ORD-2026-0277,2026-06-12,Putri Ayu,Jakarta,Fashion,Kaos Polos,1,75000,0.0,E-Wallet,Selesai,75000.0
+ORD-2026-0278,2026-06-13,Putri Ayu,Makassar,Elektronik,Power Bank 10000mAh,1,180000,0.0,E-Wallet,Selesai,180000.0
+ORD-2026-0279,2026-06-13,Bayu Saputra,Semarang,Fashion,Celana Chino,1,180000,0.0,Transfer Bank,Selesai,180000.0
+ORD-2026-0280,2026-06-14,Dewi Lestari,Jakarta,Fashion,Kaos Polos,1,75000,0.0,Transfer Bank,Selesai,75000.0
+ORD-2026-0281,2026-06-15,Wati Rahayu,Jakarta,Olahraga,Dumbbell 3kg,2,90000,0.15,COD,Selesai,153000.0
+ORD-2026-0282,2026-06-16,Rina Wulandari,Semarang,Rumah Tangga,Rice Cooker,1,450000,0.0,COD,Selesai,450000.0
+ORD-2026-0283,2026-06-16,Yuni Astuti,Bandung,Kecantikan,Masker Rambut,1,70000,0.2,COD,Dibatalkan,56000.0
+ORD-2026-0284,2026-06-18,Lia Anggraini,Surabaya,Fashion,Celana Chino,2,180000,0.0,COD,Selesai,360000.0
+ORD-2026-0286,2026-06-19,Fitri Handayani,Makassar,Kecantikan,Masker Rambut,2,70000,0.0,Kartu Kredit,Selesai,140000.0
+ORD-2026-0287,2026-06-19,Wati Rahayu,Surabaya,Kecantikan,Sunscreen SPF50,1,85000,0.05,E-Wallet,Selesai,80750.0
+ORD-2026-0288,2026-06-19,Bayu Saputra,Bandung,Kecantikan,Masker Rambut,2,70000,0.0,Transfer Bank,Selesai,140000.0
+ORD-2026-0289,2026-06-20,Teguh Santosa,Bandung,Fashion,Sepatu Sneakers,2,350000,0.05,Transfer Bank,Dikembalikan,665000.0
+ORD-2026-0290,2026-06-20,Rina Wulandari,Bandung,Olahraga,Resistance Band,2,50000,0.1,E-Wallet,Selesai,90000.0
+ORD-2026-0292,2026-06-20,Yuni Astuti,Jakarta,Rumah Tangga,Set Panci,1,300000,0.0,COD,Selesai,300000.0
+ORD-2026-0293,2026-06-24,Agus Pratama,Surabaya,Kecantikan,Masker Rambut,4,70000,0.2,COD,Dibatalkan,224000.0
+ORD-2026-0295,2026-06-25,Agus Pratama,Yogyakarta,Fashion,Celana Chino,1,180000,0.0,Kartu Kredit,Dibatalkan,180000.0
+ORD-2026-0296,2026-06-26,Andi Wijaya,Denpasar,Fashion,Kaos Polos,2,75000,0.0,Transfer Bank,Selesai,150000.0
+ORD-2026-0297,2026-06-26,Lia Anggraini,Semarang,Kecantikan,Sunscreen SPF50,1,85000,0.0,E-Wallet,Selesai,85000.0
+ORD-2026-0299,2026-06-29,Dimas Anggara,Surabaya,Olahraga,Resistance Band,2,50000,0.0,E-Wallet,Selesai,100000.0
+ORD-2026-0300,2026-06-30,Gilang Permana,Bandung,Kecantikan,Lip Tint,4,55000,0.0,Kartu Kredit,Selesai,220000.0
